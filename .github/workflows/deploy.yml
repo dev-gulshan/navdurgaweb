@@ -22,15 +22,16 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Verify installed Next.js
-        run: ./node_modules/.bin/next --version
+      - name: Verify Next.js version
+        run: npm exec --yes --package=next@15.5.20 -- next --version
 
       - name: Build Next.js
-        run: ./node_modules/.bin/next build
+        run: npm exec --yes --package=next@15.5.20 -- next build
 
       - name: Verify out folder
         run: |
           test -d out
+          echo "out folder generated successfully"
           ls -la out
 
       - name: Deploy frontend to Hostinger
