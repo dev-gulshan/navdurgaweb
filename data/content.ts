@@ -549,6 +549,79 @@ export const galleryHero = {
 
 export const galleryGroups: GalleryGroup[] = [
   {
+    "title": "Independence Day Celebration Across Navdurga Group",
+    "subtitle": "Celebrating the Spirit of Freedom, Unity & Nation Building",
+    "description": "Various units of the Nav Durga Group came together to celebrate Independence Day with pride and patriotism, hoisting the National Flag in all its pomp and glory. As we celebrated the spirit of a free and vibrant India, we reaffirmed our commitment to contributing to the nation’s growth and progress—continuing to be a part of India’s Nirmaan.",
+    "media": [
+      {
+        "type": "image",
+        "src": "https://res.cloudinary.com/dknrenrn0/image/upload/v1787054016/WhatsApp_Image_2026-08-17_at_17.16.27_ndt2zh.jpg",
+        "thumbnail": "https://res.cloudinary.com/dknrenrn0/image/upload/v1787054016/WhatsApp_Image_2026-08-17_at_17.16.27_ndt2zh.jpg",
+        "alt": "Independence Day"
+      },
+      {
+        "type": "image",
+        "src": "https://res.cloudinary.com/dknrenrn0/image/upload/v1787054016/WhatsApp_Image_2026-08-17_at_17.10.36_zvc50q.jpg",
+        "thumbnail": "https://res.cloudinary.com/dknrenrn0/image/upload/v1787054016/WhatsApp_Image_2026-08-17_at_17.10.36_zvc50q.jpg",
+        "alt": "Independence Day"
+      },
+      {
+        "type": "image",
+        "src": "https://res.cloudinary.com/dknrenrn0/image/upload/v1787054017/WhatsApp_Image_2026-08-17_at_17.10.35_1_inegwf.jpg",
+        "thumbnail": "https://res.cloudinary.com/dknrenrn0/image/upload/v1787054017/WhatsApp_Image_2026-08-17_at_17.10.35_1_inegwf.jpg",
+        "alt": "Independence Day"
+      },
+      {
+        "type": "image",
+        "src": "https://res.cloudinary.com/dknrenrn0/image/upload/v1787054017/WhatsApp_Image_2026-08-17_at_17.10.33_1_c35bq4.jpg",
+        "thumbnail": "https://res.cloudinary.com/dknrenrn0/image/upload/v1787054017/WhatsApp_Image_2026-08-17_at_17.10.33_1_c35bq4.jpg",
+        "alt": "Independence Day"
+      },
+       {
+        "type": "image",
+        "src": "https://res.cloudinary.com/dknrenrn0/image/upload/v1787054017/WhatsApp_Image_2026-08-17_at_17.10.34_ebpdna.jpg",
+        "thumbnail": "https://res.cloudinary.com/dknrenrn0/image/upload/v1787054017/WhatsApp_Image_2026-08-17_at_17.10.34_ebpdna.jpg",
+        "alt": "Independence Day"
+      },
+      {
+        "type": "image",
+        "src": "https://res.cloudinary.com/dknrenrn0/image/upload/v1787054017/WhatsApp_Image_2026-08-17_at_18.19.21_vrvmgy.jpg",
+        "thumbnail": "https://res.cloudinary.com/dknrenrn0/image/upload/v1787054017/WhatsApp_Image_2026-08-17_at_18.19.21_vrvmgy.jpg",
+        "alt": "Independence Day"
+      },
+      {
+        "type": "image",
+        "src": "https://res.cloudinary.com/dknrenrn0/image/upload/v1787054018/WhatsApp_Image_2026-08-17_at_17.10.33_rqj1wr.jpg",
+        "thumbnail": "https://res.cloudinary.com/dknrenrn0/image/upload/v1787054018/WhatsApp_Image_2026-08-17_at_17.10.33_rqj1wr.jpg",
+        "alt": "Independence Day"
+      },
+      {
+        "type": "image",
+        "src": "https://res.cloudinary.com/dknrenrn0/image/upload/v1787054018/WhatsApp_Image_2026-08-17_at_17.10.34_2_tz2686.jpg",
+        "thumbnail": "https://res.cloudinary.com/dknrenrn0/image/upload/v1787054018/WhatsApp_Image_2026-08-17_at_17.10.34_2_tz2686.jpg",
+        "alt": "Independence Day"
+      },
+      {
+        "type": "image",
+        "src": "https://res.cloudinary.com/dknrenrn0/image/upload/v1787054018/WhatsApp_Image_2026-08-17_at_17.10.34_1_xodgpt.jpg",
+        "thumbnail": "https://res.cloudinary.com/dknrenrn0/image/upload/v1787054018/WhatsApp_Image_2026-08-17_at_17.10.34_1_xodgpt.jpg",
+        "alt": "Independence Day"
+      },
+      {
+        "type": "image",
+        "src": "https://res.cloudinary.com/dknrenrn0/image/upload/v1787054018/WhatsApp_Image_2026-08-17_at_17.10.35_sej08x.jpg",
+        "thumbnail": "https://res.cloudinary.com/dknrenrn0/image/upload/v1787054018/WhatsApp_Image_2026-08-17_at_17.10.35_sej08x.jpg",
+        "alt": "Independence Day"
+      },
+      {
+        "type": "video",
+        "src": "https://res.cloudinary.com/dknrenrn0/video/upload/v1787054240/WhatsApp_Video_Compressed_Quality_Maintained_p94il5.mp4",
+        "thumbnail": "https://res.cloudinary.com/dknrenrn0/image/upload/v1787067586/Independence_Day_Video_Thumbnail_1280x1280_hrwzjn.jpg",
+        "alt": "Independence Day"
+      }
+    ]
+  },
+  {
     "title": "Navdurga Group – Tanzania Manufacturing Unit",
     "subtitle": "Bhoomi Pujan & Production Commencement",
     "description": "Navdurga Group proudly marked the Bhoomi Pujan ceremony for its flagship manufacturing facility in Tanzania . Following this milestone, the unit has officially commenced the production of Nails, Umbrella Nails, and Chicken Mesh , marking a significant step in the Group's global manufacturing expansion.",
