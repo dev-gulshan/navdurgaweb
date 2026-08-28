@@ -1600,27 +1600,27 @@ export const teamPageContent = {
     "image": "https://res.cloudinary.com/dknrenrn0/image/upload/v1741189054/nimi_gadodia_team1_u69erm.png",
     "bio": "Under his outstanding leadership and business acumen, Navdurga Group has grown into a strong and profitable enterprise. He has transformed Navdurga Group into a powerful industrial house with a dominant presence in steel across India. The group is continuously scaling its capacity through new projects, acquisition of brownfield assets and diversification to build sustainable businesses."
   },
-  {
-    "id": 2,
-    "name": "Sandeep Agrawal",
-    "role": "Business Head - NDFPL",
-    "image": "https://res.cloudinary.com/dknrenrn0/image/upload/v1741189059/sandip_obzvbh.jpg",
-    "bio": "Post graduate in Economics, having 35 years of experiences in running various business. He has been associated with this group for last 25 years.He looks after Chhatisgarh operations."
-  },
-  {
-    "id": 3,
-    "name": "Mohit Agrawal",
-    "role": "Partner, Rourkela Sponge LLP",
-    "image": "https://res.cloudinary.com/dknrenrn0/image/upload/v1751786827/DSC01528_1_kktwgj.jpg",
-    "bio": "He holds an MBA in Finance and Marketing from ICFAI and a graduation degree from Symbiosis College, Pune With a strong analytical background in Equities and Commodities, he brings 18+ years of experience and entrepreneurial expertise in FMCG retail. He now leads manufacturing and operations at Rourkela Sponge LLP, driving the company's future growth."
-  },
-  {
-    "id": 4,
-    "name": "Sanchit Agrawal",
-    "role": "Plant Head - Rayalseema Industries India Pvt Ltd",
-    "image": "https://res.cloudinary.com/dknrenrn0/image/upload/v1741189057/sanchil-agrawal_nodxbd.png",
-    "bio": "Mechanical Grad from Manipal and MBA from IBS -Hyderbad. He is looking after RIIPL plant. He has expertise in plant operation and posseses high level commerical accumen."
-  },
+  // {
+  //   "id": 2,
+  //   "name": "Sandeep Agrawal",
+  //   "role": "Business Head - NDFPL",
+  //   "image": "https://res.cloudinary.com/dknrenrn0/image/upload/v1741189059/sandip_obzvbh.jpg",
+  //   "bio": "Post graduate in Economics, having 35 years of experiences in running various business. He has been associated with this group for last 25 years.He looks after Chhatisgarh operations."
+  // },
+  // {
+  //   "id": 3,
+  //   "name": "Mohit Agrawal",
+  //   "role": "Partner, Rourkela Sponge LLP",
+  //   "image": "https://res.cloudinary.com/dknrenrn0/image/upload/v1751786827/DSC01528_1_kktwgj.jpg",
+  //   "bio": "He holds an MBA in Finance and Marketing from ICFAI and a graduation degree from Symbiosis College, Pune With a strong analytical background in Equities and Commodities, he brings 18+ years of experience and entrepreneurial expertise in FMCG retail. He now leads manufacturing and operations at Rourkela Sponge LLP, driving the company's future growth."
+  // },
+  // {
+  //   "id": 4,
+  //   "name": "Sanchit Agrawal",
+  //   "role": "Plant Head - Rayalseema Industries India Pvt Ltd",
+  //   "image": "https://res.cloudinary.com/dknrenrn0/image/upload/v1741189057/sanchil-agrawal_nodxbd.png",
+  //   "bio": "Mechanical Grad from Manipal and MBA from IBS -Hyderbad. He is looking after RIIPL plant. He has expertise in plant operation and posseses high level commerical accumen."
+  // },
   {
     "id": 5,
     "name": "Chiranjib Das",

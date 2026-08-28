@@ -111,7 +111,7 @@ export default function TeamPage() {
                 sizes="(max-width: 900px) 100vw, 44vw"
               />
 
-              <div className="team-featured-number">01</div>
+              {/* <div className="team-featured-number">01</div> */}
             </div>
 
             <div className="team-featured-copy">
@@ -145,7 +145,7 @@ export default function TeamPage() {
                       sizes="(max-width: 700px) 100vw, (max-width: 1050px) 50vw, 33vw"
                     />
 
-                    <span>{String(index + 2).padStart(2, "0")}</span>
+                    {/* <span>{String(index + 2).padStart(2, "0")}</span> */}
                   </div>
 
                   <div className="team-premium-card-content">
