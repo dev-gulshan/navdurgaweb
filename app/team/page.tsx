@@ -79,7 +79,7 @@ export default function TeamPage() {
       <section className="team-premium-motto">
         <Container>
           <article className="team-premium-motto-card" data-team-reveal>
-            <div className="team-premium-motto-index"></div>
+            <div className="team-premium-motto-index">01</div>
 
             <div>
               <span>{teamPageContent.motto.title}</span>
