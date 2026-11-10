@@ -149,8 +149,8 @@ export default function Footer() {
                 <MapPin size={18} />
               </span>
               <address>
-                House No 8-2-618/2/A to C, Delta Seacon Building, Road No. 11,
-                Banjara Hills, Hyderabad, Telangana - 500034.
+                Vamsiram's Jyothi Valencia No-8_2_120/8411/1/A Unit No : 1, 4th
+                floor, Road No. 2 Banjara Hills, Hyderabad-500034.
               </address>
             </div>
           </div>
